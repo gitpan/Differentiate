@@ -1,0 +1,15 @@
+Revision history for Perl module Math::Calculus::Differentiate
+==============================================================
+
+VERSION 0.2
+* Released to CPAN on 1st September 2004.
+* Completely re-written to use a tree structure internally.
+* Precedence problems gone, and the / operator works.
+* Interface changed from that of the 0.1 module.
+* Documentation written. I didn't write any for 0.1, just in
+  case somebody tried to use it.  ;-)
+
+VERSION 0.1
+* Released informally, badly written, never made it to CPAN,
+  eventually scrapped completely.
+
